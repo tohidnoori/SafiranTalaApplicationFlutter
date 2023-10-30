@@ -5,7 +5,18 @@
 دارای پنل ادمین مجزا ساخته شده با زبان ریکت
 این اپلیکیشن مخصوص همین مجموعه طراحی شده و در دسترس عموم در ماررکت ها قرار نگرته
 
-![20230625_190725](https://www.karlancer.com/api/file/x/x764/1698246407-MpjA.JPG)
-![20230625_191548](https://www.karlancer.com/api/file/x/x764/1698246410-vtb0.JPG)
-![20230625_191548](https://www.karlancer.com/api/file/x/x764/1698246410-G85M.JPG)
-![20230625_191548](https://www.karlancer.com/api/file/x/x764/1698246406-HvYL.JPG)
+<p align="center">
+  <img src="https://www.karlancer.com/api/file/x/x764/1698246407-MpjA.JPG" width="300" alt="Image 1">
+</p>
+
+<p align="center">
+  <img src="https://www.karlancer.com/api/file/x/x764/1698246410-vtb0.JPG" width="300" alt="Image 2">
+</p>
+
+<p align="center">
+  <img src="https://www.karlancer.com/api/file/x/x764/1698246410-G85M.JPG" width="300" alt="Image 3">
+</p>
+
+<p align="center">
+  <img src="https://www.karlancer.com/api/file/x/x764/1698246406-HvYL.JPG" width="300" alt="Image 4">
+</p>
