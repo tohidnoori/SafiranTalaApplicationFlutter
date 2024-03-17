@@ -1,4 +1,4 @@
-# SafiranTalaApllicationFlutter
+# SafiranTalaApplicationFlutter
 اپلیکیشن فروشگاهی سفیران طلا در دو نسخه اندروید و ios طراحی شده
 <br/>
 نسخه ios ان بصورت webapp از خروجی های فلاتر استفاده شده
